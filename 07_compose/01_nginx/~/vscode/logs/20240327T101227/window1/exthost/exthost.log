@@ -1,0 +1,19 @@
+2024-03-27 10:12:39.188 [info] Extension host with pid 3742 started
+2024-03-27 10:12:39.423 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-27 10:12:39.513 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-27 10:12:39.712 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-27 10:12:40.537 [info] Eager extensions activated
+2024-03-27 10:12:40.697 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-27 10:12:40.715 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-27 10:12:48.923 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-27 10:12:48.937 [info] Extension host with pid 3742 exiting with code 0
+2024-03-27 10:12:50.648 [info] Extension host with pid 3869 started
+2024-03-27 10:12:50.648 [info] Skipping acquiring lock for /root/docker/07_compose/01_nginx/~/vscode/User/workspaceStorage/1fa0473191cbb2e75e3149aa4274c12e.
+2024-03-27 10:12:50.806 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-03-27 10:12:50.923 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-27 10:12:51.219 [info] Eager extensions activated
+2024-03-27 10:12:51.229 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-27 10:12:51.235 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-27 10:12:52.824 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-03-27 10:13:46.602 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-27 10:13:46.641 [info] Extension host with pid 3869 exiting with code 0
